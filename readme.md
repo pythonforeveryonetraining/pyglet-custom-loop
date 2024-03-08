@@ -2,7 +2,7 @@
 
 The schedule_interval and schedule functions do not call the update function with a steady rate. In this example, you see a custom render loop to calculate delta_time and call update and draw.
 
-![preview]()
+![preview](https://github.com/pythonforeveryonetraining/pyglet-custom-loop/blob/main/preview.png)
 
 ```
 def start(self):
